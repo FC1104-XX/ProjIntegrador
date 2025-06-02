@@ -1,0 +1,248 @@
+Column: Data
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Alverca
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Anta-Espinho
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Arcos
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Aveiro
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Avenida da Liberdade
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Avintes
+  5 mínimos: 4
+  19 mínimos: 1
+
+Column: Burgães-Santo Tirso
+  5 mínimos: 5
+  19 mínimos: 1
+
+Column: Cascais - Escola da Cidadela
+  5 mínimos: 2
+  19 mínimos: 1
+
+Column: Cerro
+  5 mínimos: 5
+  19 mínimos: 4
+
+Column: Chamusca
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Cónego Dr. Manuel Faria-Azurém
+  5 mínimos: 2
+  19 mínimos: 1
+
+Column: David Neto
+  5 mínimos: 4
+  19 mínimos: 3
+
+Column: D.Manuel II-Vermoim
+  5 mínimos: 2
+  19 mínimos: 1
+
+Column: Douro Norte
+  5 mínimos: 2
+  19 mínimos: 1
+
+Column: Entrecampos
+  5 mínimos: 0
+  19 mínimos: 0
+
+Column: Ermesinde-Valongo
+  5 mínimos: 0
+  19 mínimos: 0
+
+Column: Ervedeira
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Escavadeira
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Estarreja/ Teixugueira
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Faial
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Fernando Pó
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Fidalguinhos
+  5 mínimos: 3
+  19 mínimos: 3
+
+Column: Fornelo do Monte
+  5 mínimos: 0
+  19 mínimos: 0
+
+Column: Francisco Sá Carneiro-Campanha
+  5 mínimos: 1
+  19 mínimos: 0
+
+Column: Fr Bartolomeu Mártires-S.Vitor
+  5 mínimos: 5
+  19 mínimos: 2
+
+Column: Frossos-Braga
+  5 mínimos: 5
+  19 mínimos: 3
+
+Column: Fundão
+  5 mínimos: 5
+  19 mínimos: 3
+
+Column: Ílhavo
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Instituto Geofísico de Coimbra
+  5 mínimos: 3
+  19 mínimos: 2
+
+Column: João Gomes Laranjo-S.Hora
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Joaquim Magalhães
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Laranjeiro
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Lavradio
+  5 mínimos: 2
+  19 mínimos: 2
+
+Column: Leça do Balio-Matosinhos
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Loures-Centro
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Lourinhã
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Malpique
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Meco-Perafita
+  5 mínimos: 0
+  19 mínimos: 0
+
+Column: Mem Martins
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Mindelo-Vila do Conde
+  5 mínimos: 1
+  19 mínimos: 0
+
+Column: Monte Chãos
+  5 mínimos: 0
+  19 mínimos: 0
+
+Column: Montemor-o-Velho
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Monte Velho
+  5 mínimos: 4
+  19 mínimos: 3
+
+Column: Odivelas-Ramada
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Olivais
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Paços de Ferreira
+  5 mínimos: 5
+  19 mínimos: 2
+
+Column: Paio Pires
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Pe Moreira Neves-Castelões de Cepeda
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Quebedo
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Quinta do Marquês
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Reboleira
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Santa Cruz de Benfica
+  5 mínimos: 4
+  19 mínimos: 2
+
+Column: Santana
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Santiago do Cacém
+  5 mínimos: 5
+  19 mínimos: 3
+
+Column: São Gonçalo
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: São João
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Seara-Matosinhos
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Sonega
+  5 mínimos: 5
+  19 mínimos: 5
+
+Column: Terena
+  5 mínimos: 4
+  19 mínimos: 4
+
+Column: VNTelha-Maia
+  5 mínimos: 5
+  19 mínimos: 4
+
+Column: proporção
+  5 mínimos: 5
+  19 mínimos: 5
+
