@@ -21,3 +21,4 @@ Para correr o código no jupyter online fazer os primeiros 4 passos iguais e dep
 Escolher o kernel "Python (venv)" no jupyter
 
 
+ADICIONAR COS FILES INDIVIDUALMENTE. SÃO DEMASIADO PESADAS PARA O GITHUB (.dbf ﹠ .shp, excel do processamento.ipynb tem que ser corrido localmente pela mesma razao"
