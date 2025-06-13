@@ -82,6 +82,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 pycparser==2.22
 Pygments==2.19.1
+PyKrige==1.7.2
 pyogrio==0.10.0
 pyparsing==3.2.3
 pyproj==3.7.1
